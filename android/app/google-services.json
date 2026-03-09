@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252472073589",
+    "project_id": "eco-credit-app-842f8",
+    "storage_bucket": "eco-credit-app-842f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252472073589:android:5fdadd811f7a68321fc73c",
+        "android_client_info": {
+          "package_name": "com.example.eco_credit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWfBZIj38Uug2ii9w1ITIfFnSV-6ASDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

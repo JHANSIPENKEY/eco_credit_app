@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "eco-credit-app-842f8",
+          "appId": "1:252472073589:android:5fdadd811f7a68321fc73c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "eco-credit-app-842f8",
+          "configurations": {
+            "android": "1:252472073589:android:5fdadd811f7a68321fc73c",
+            "ios": "1:252472073589:ios:c372c4abf16a65f41fc73c",
+            "macos": "1:252472073589:ios:c372c4abf16a65f41fc73c",
+            "web": "1:252472073589:web:b9981d306f3335ce1fc73c",
+            "windows": "1:252472073589:web:24142b68d78dd9fa1fc73c"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
